@@ -1,2 +1,2 @@
-# John Smith 
-Rennes
+# Quentin Carric
+Etudiant de M2 MAS
