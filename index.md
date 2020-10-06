@@ -43,7 +43,7 @@
                 <p>B</p>
             </div>
             <div class="social">
-                <a href="#"><img src="https://www.pierre-giraud.com/wp-content/uploads/2019/07/lk.png" alt="Logo Lk"></a>
+                <a href="https://www.linkedin.com/in/quentin-carric-752020176/"><img src="https://www.pierre-giraud.com/wp-content/uploads/2019/07/lk.png" alt="Logo Lk"></a>
             </div>
         </div>
     </section>
