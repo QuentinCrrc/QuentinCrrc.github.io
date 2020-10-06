@@ -17,7 +17,8 @@
         </div>
         <div class="prez">
             <h2>Qui suis-je ?</h2>
-            <p>Originaire de la région rennaise, j'étudie actuellement à l'université Rennes 2 en seconde année de Master, Mathématique Appliquée, Statistique, spécialisation Sciences des Données. Actuellement en alternance avec la start-up C-Ways basé à Paris, j'ai déjà pu travailler sur des projets particulièrement intéressants que je présente ci-dessous.  Dans le même temps, je suis également étudiant de l'université Rennes 1, inscris dans le Magistère de Statistique et Modélisation Economique, que je suis depuis ma 3 années de licence. </a>
+            <p> Originaire de la région rennaise, j'étudie actuellement à l'université Rennes 2 en seconde année de Master, Mathématique Appliquée, Statistique, spécialisation Sciences des Données. Actuellement en alternance avec la start-up C-Ways basé à Paris, j'ai déjà pu travailler sur des projets particulièrement intéressants que je présente ci-dessous.  Dans le même temps, je suis également étudiant de l'université Rennes 1, inscris dans le Magistère de Statistique et Modélisation Economique, que je suis depuis ma 3 années de licence. </p>
+            <a href="#" download>Télécharger mon CV</a>
         </div>
         <div class="contact">
             <h2>Informations de contact</h2>
@@ -42,10 +43,7 @@
                 <p>B</p>
             </div>
             <div class="social">
-                <a href="#"><img src="https://www.pierre-giraud.com/wp-content/uploads/2019/07/fb.png" alt="Logo Fb"></a>
-                <a href="#"><img src="https://www.pierre-giraud.com/wp-content/uploads/2019/07/tw.png" alt="Logo Tw"></a>
                 <a href="#"><img src="https://www.pierre-giraud.com/wp-content/uploads/2019/07/lk.png" alt="Logo Lk"></a>
-                <a href="#"><img src="https://www.pierre-giraud.com/wp-content/uploads/2019/07/yt.png" alt="Logo Yt"></a>
             </div>
         </div>
     </section>
