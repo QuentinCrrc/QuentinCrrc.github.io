@@ -4,7 +4,7 @@
     padding: 0px;
     margin: 0px;
     text-align: justify;
-    box-sizing: border-box;
+    /*box-sizing: border-box*/;
 }
 body{
     background: #ededed;
