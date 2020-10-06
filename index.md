@@ -19,28 +19,25 @@
         </div>
         <div class="prez">
             <h2>Qui suis-je ?</h2>
-            <p>Diplômé d'un master 2 "Entrepreneuriat et Innovation" (Programme Grande
-            Ecole EDHEC), je me tourne ensuite vers le développement informatique et les
-            thématiques liées au web comme l'optimisation du référencement (SEO).</p>
-            <a href="#" download>Télécharger mon CV</a>
+            <p>Originaire de la région rennaise, j'étudie actuellement à l'université Rennes 2 en seconde année de Master, Mathématique Appliquée, Statistique, spécialisation Sciences des Données. Actuellement en alternance avec la start-up C-Ways basé à Paris, j'ai déjà pu travailler sur des projets particulièrement intéressants que je présente ci-dessous.  Dans le même temps, je suis également étudiant de l'université Rennes 1, inscris dans le Magistère de Statistique et Modélisation Economique, que je suis depuis ma 3 années de licence. </a>
         </div>
         <div class="contact">
             <h2>Informations de contact</h2>
             <div class="contact-flex">
                 <p>Nom : </p>
-                <p>GIRAUD Pierre</p>
+                <p>CARRIC Quentin</p>
             </div>
             <div class="contact-flex">
                 <p>Adresse : </p>
-                <p>115 Avenue des Lilas - 83000 Toulon</p>
+                <p>8 rue de Gavrinis, 35310 Chavagne</p>
             </div>
             <div class="contact-flex">
                 <p>Téléphone :</p>
-                <p>06 36 65 65 65</p>
+                <p>06 28 58 31 55</p>
             </div>
             <div class="contact-flex">
                 <p>Mail : </p>
-                <p><a href="mailto:pierre.giraud@edhec.com">pierre.giraud@edhec.com</a></p>
+                <p><a href="quentincarric@gmail.com">quentincarric@gmail.com</a></p>
             </div>
             <div class="contact-flex">
                 <p>Permis :</p>
