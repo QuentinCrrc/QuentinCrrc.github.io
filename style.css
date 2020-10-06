@@ -20,7 +20,8 @@ a{
 }
 
 /*HEADER & FOOTER*/
-/*header, footer{
+
+header, footer{
     width: 100%;
     padding: 20px 0px;
     background: #7D1701;
