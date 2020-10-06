@@ -7,7 +7,7 @@
 </head>
 <body>
     <header>
-        <h1>CV de Pierre GIRAUD</h1>
+        <h1>CV de Quentin CARRIC</h1>
     </header>
     
     <section>
