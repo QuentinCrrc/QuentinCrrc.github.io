@@ -15,7 +15,7 @@
     
     <section>
         <div class="photo">
-            <img src="https://www.pierre-giraud.com/wp-content/uploads/2019/07/cv-profil.jpg" alt="Ma photo de profil">
+            <img src="photo_profil.png" alt="Ma photo de profil">
         </div>
         <div class="prez">
             <h2>Qui suis-je ?</h2>
