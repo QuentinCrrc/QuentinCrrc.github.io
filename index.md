@@ -5,6 +5,9 @@
           content="width=device-width, initial-scale=1, user-scalable=no">
     <link rel="stylesheet" href="cv.css">
 </head>
+
+<link rel="stylesheet" type="text/css" href="style.css" />
+
 <body>
     <header>
         <h1>CV de Quentin CARRIC</h1>
